@@ -1,0 +1,20 @@
+{
+  "name": "advaned-nodejs",
+  "version": "1.0.0",
+  "description": "Advanced Node.js",
+  "author": "Samer Buna",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.10.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscomplete/advanced-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jscomplete/advanced-nodejs/issues"
+  },
+  "homepage": "https://github.com/jscomplete/advanced-nodejs#readme"
+}
